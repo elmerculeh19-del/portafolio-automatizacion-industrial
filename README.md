@@ -34,8 +34,4 @@
 - Gestionar alarmas visuales a partir de límites de proceso.  
 - Enlazar correctamente tags entre PLC y HMI en TIA Portal.
 
-**Capturas de pantalla**
-
-Las imágenes del proyecto están en la carpeta `img/` de este repositorio:
-
-![Pantalla principal – HMI tanque](img/hmi_tanque_pantalla_principal.png)
+![Pantalla principal – HMI tanque](hmi_tanque_pantalla_principal.png)
