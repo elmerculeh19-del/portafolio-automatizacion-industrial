@@ -33,5 +33,12 @@
 - Configurar gráficos de tendencias para monitorizar variables de proceso.  
 - Gestionar alarmas visuales a partir de límites de proceso.  
 - Enlazar correctamente tags entre PLC y HMI en TIA Portal.
-
+- 
+**Visualizacion del HMI**
 ![Pantalla principal – HMI tanque](hmi_tanque_pantalla_principal.png)
+
+**Inicio de Simulación: Llenado del tanque a tope (Sistema Alarmado)**
+![Pantalla principal – HMI tanque](Llenado.png)
+
+**Vaciado del tanque**
+![Pantalla principal – HMI tanque](Vaciado.png)
